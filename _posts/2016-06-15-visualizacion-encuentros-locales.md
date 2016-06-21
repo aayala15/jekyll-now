@@ -3,7 +3,7 @@ layout: post
 title: "Visualización de Encuentros Locales"
 date: 2016-06-15
 ---
-Datos actualizados al 15 de junio de 2016.
+Datos actualizados al 21 de junio de 2016.
 
 ## Número de cabildos vs. ingreso medio
 <div class="graph_scatter"></div>
