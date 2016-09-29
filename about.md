@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I’m a Ph.D. candidate in Finance & Economics at Columbia Business School. My research interests are empirical asset pricing, international finance, and macro-finance.
+I’m a Ph.D. in Finance & Economics at Columbia Business School. My research interests are empirical asset pricing, international finance, and macro-finance.
 
 I live in New York, was raised in Santiago. Avid runner and die-hard soccer fan.
 
 ## Resume
 
 ### Education
-2010 - 2016 Ph.D.(c) in Finance & Economics, Columbia Business School
+2010 - 2016 Ph.D. in Finance & Economics, Columbia Business School
 
 2006 - 2007 M.Sc. in Financial Engineering, Pontificia Universidad Católica de Chile
 
